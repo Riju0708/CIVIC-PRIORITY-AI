@@ -1,0 +1,6 @@
+{
+  "name": "CivicPriority AI - Real-Time Civic Triage System",
+  "description": "Transforming raw citizen feedback into prioritized, actionable municipal operations using automated intelligence, SSN identity deduplication, and false-alarm human verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
